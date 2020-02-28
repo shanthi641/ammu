@@ -1,0 +1,30 @@
+.content {
+    background-color: #F9F6F6;
+  }
+  
+  .first-header {
+    background: url('https://lithub.com/wp-content/uploads/2019/07/used-books-store-2.jpg');
+  }
+  
+  .second-header {
+    background: url('https://www.simplilearn.com/ice9/free_resources_article_thumb/8-Books-To-Read-for-a-PRINCE2.jpg');
+  }
+  
+  .third-header {
+    background: url('https://cdn.shopify.com/s/files/1/1586/2541/files/WOMEN-COLLECTION-BANNER-1.jpg?v=1514178898');
+  }
+  
+  .fourth-header {
+    background: url('https://cdn.shopify.com/s/files/1/0016/8289/9033/files/Best-Tech-Accessories-2017-Gift-Guide_2000x.jpg?v=1533230417');
+  }
+  
+  .fifth-header {
+    background: url('https://images-platform.99static.com/pStHPUdAoyg2-a6oAHjK_F9x5rk=/51x73:906x928/500x500/top/smart/99designs-contests-attachments/59/59780/attachment_59780495');
+  }
+  .first-header, .second-header, .third-header, .fourth-header, .fifth-header {
+    display: flex;
+    flex-direction: column;
+    background-size: cover;
+    background-position: center;
+  }
+  
